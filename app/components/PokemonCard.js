@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-import { TYPE_COLORS } from "../constants/typeColors";
+import { TYPE_COLORS } from "@/app/components/typeColors";
 
 /**
  * PokemonCard
